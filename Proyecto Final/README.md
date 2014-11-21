@@ -1,0 +1,1 @@
+Ejecutar el archivo .exe bajo un Sistema Operativo Windows.En nombre de usuario = AlgoritmosLa contraseña es Algoritmo$Ahí se encuentran corriendo la base de datos y un servidor para visualizar los archivos php.
